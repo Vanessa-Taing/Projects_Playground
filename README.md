@@ -10,3 +10,8 @@ I learn from tutorials from the links attached. This is solely for self-learning
 - python, opencv, imutils
 - 1st edition: 25/4/2024 2pm
 - ref: https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/ 
+
+### 3. Generating Realistic Looking Handwritten Digits With GAN
+- python, Generative Adversarial Network (GAN)
+- 1st edition: 25/4/2024 10pm
+- ref: https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_training_mnist.py
