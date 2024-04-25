@@ -1,0 +1,108 @@
+Listening....
+Recognizing.....
+Mojo Said: oh my oh my god you're so you're so cool 
+
+WARNING:tensorflow:From C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+model.safetensors: 100%|████████████████████████████████████████████████████████████████████████████████| 548M/548M [04:11<00:00, 2.18MB/s]
+C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\file_download.py:148: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\user\.cache\huggingface\hub\models--gpt2. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to see activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+WARNING:tensorflow:From C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-04-23 21:24:38.756809: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+All PyTorch model weights were used when initializing TFGPT2LMHeadModel.
+
+All the weights of TFGPT2LMHeadModel were initialized from the PyTorch model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFGPT2LMHeadModel for predictions without further training.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Jarvis:  oh my oh my god you're so you're so cool too. I could see how it was. You look so cute and strong. I was a different story."
+
+She didn't answer.
+
+Lavish's expression didn't change even though her legs were already trembling. She looked as if someone had punched her in the face that, when you looked at her without even a blink of an eye, had become one half of the girl she had met, right up until now.
+
+"What is it?"
+
+Somewhere in her thought she saw Avilda's expression.
+
+Lavish didn't stop her and looked at Avilda in surprise.
+
+"You, how am I supposed to know there are two things in Avilda that you can make together like that?"
+
+"Yeah."
+
+She let out a long laugh.
+
+"The things that are really good."
+
+Lovish's mouth didn't respond
+Listening....
+Recognizing.....
+Mojo Said: open YouTube 
+
+All PyTorch model weights were used when initializing TFGPT2LMHeadModel.
+
+All the weights of TFGPT2LMHeadModel were initialized from the PyTorch model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFGPT2LMHeadModel for predictions without further training.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Jarvis:  open youtube
+
+- YouTube Link: https://www.youtube.com/user/lizdutch
+
+- Reddit link: https://www.reddit.com/r/videos/comments/1m9bw/some_titties_however/
+
+
+You might also want to bookmark/post this: https://www.pinterest.com/pony/lizdutch-1033-2?resize=2 and share it, you can then save this link. Thanks.
+
+Advertisements
+Listening....
+Recognizing.....
+Mojo Said: open Google Play Jarvis do you think it is a good application 
+
+All PyTorch model weights were used when initializing TFGPT2LMHeadModel.
+
+All the weights of TFGPT2LMHeadModel were initialized from the PyTorch model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFGPT2LMHeadModel for predictions without further training.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Jarvis:  open google play jarvis do you think it is a good application of jjar to do JVM-related jobs? Also, what about some of the JVM-related features that may be available with NSLib? (thanks, bdilas!) [12c0d3cf.c80d2f2.b06d919.e4e1413.e42be3b.c4fa7d.f75d4af.13a4ac0.5c3ff] [c8c0f7f6b4d9.fc1c2b8.6bf38b.cf7c4b7d.d922a1b.f1ae33.b78f6c.c031818.05acdf] This may or may not work for you.
+
+This is a reference to the latest patch in the JVM API. For the Java SE 7
+Listening....
+Recognizing.....
+Mojo Said: bye Jarvis see you next time 
+
+All PyTorch model weights were used when initializing TFGPT2LMHeadModel.
+
+All the weights of TFGPT2LMHeadModel were initialized from the PyTorch model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFGPT2LMHeadModel for predictions without further training.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Jarvis:  bye jarvis see you next time
+
+[Sneaky Ghost] Yeah, this is amazing.
+
+[Sneaking] Hi!
+
+[Oculus] What're you?
+
+[Mammoth] You could get a whole house.
+
+[Oculus] That's an amazing idea.
+
+[Sneaky Ghost] And, there's also a way of doing some different things.
+
+[Sneaking] Well, where you live…
+
+[Oculus] Is there a word for them, like "mammoth"?
+
+[Sneaking] Well, a lot of words, really.
+
+[Oculus] Who's this guy?
+
+You got a feeling it's going to be the one who's the first to use those words. Maybe it's the one who made one of our games.                                                                                                     e one of our games.
+[Sne
